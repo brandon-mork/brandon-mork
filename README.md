@@ -6,4 +6,4 @@ I'm working for [Abrigo](https://www.abrigo.com/company/), a rapidly growing mid
 
 Abrigo is hiring! [Check out our open positions](https://www.abrigo.com/company/careers/).
 
-I'm always looking for promising projects in the humane technology space to collaborate on. Connecti with me over LinkedIn or at my personal email: bpmork@ncsu.edu.
+I'm always looking for promising projects in the humane technology space to collaborate on. Connect with me over [LinkedIn](https://www.linkedin.com/in/brandon-mork/) or at my personal email: bpmork@ncsu.edu.
