@@ -1,4 +1,4 @@
-Hi! I’m Brandon Mork, a full-stack software engineer who is passionate about humane technology and creating excellent software.
+Hi! I’m Brandon Mork, a full-stack software engineer & engineering manager who is passionate about humane technology and creating excellent software.
 
 I hope to contribute to a world where our technologies support individual well-being and societal flourishing. We've got a long way to go, and we need passionate technologists to recognize today's problems and contribute to tomorrow's solutions. For a more comprehensive problem statement and possible solutions, check out [The Center for Humane Technology](https://www.humanetech.com/take-control).
 
